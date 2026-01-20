@@ -1,1 +1,1 @@
-Este foi o 1º projeto realizado durante o curso da carreira de "lógica de programação" da Alura, onde eu efetivamente só programei na linguagem JavaScript, os arquivos em HTML e CSS foram fornecidos de antemão para visualização do código escrito em JS.
+Este foi o 1º projeto realizado durante o curso da carreira de "lógica de programação" da Alura, onde eu efetivamente só programei na linguagem JavaScript acompanhado dos orientadores. Os arquivos em HTML e CSS foram fornecidos de antemão para visualização do código escrito em JS.
